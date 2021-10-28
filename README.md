@@ -1,4 +1,4 @@
-# BLSTM-Wearable-Sensors
+# Using a Bidirectional LSTM Approach to Classify Simple Arm Dance Motions from Wearable Inertial Sensors
 
 ![SigAsia_Representative_Image](https://user-images.githubusercontent.com/35769957/139349293-98c58339-9128-406d-8cd9-02c5c1237b58.jpg)
 
